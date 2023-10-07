@@ -36,14 +36,9 @@ Student make_student(string line) {
     string name = arr[0];
     string group = arr[1];
 
-    for (int i = 0; i < size(arr); i++) {
-        cout << arr[i] << endl;
+    for (int i = 2; i < size(arr) - 2; i+=3) {
+        courses.push_back({ arr[i], stoi(arr[i+1]), !!stoi(arr[i+2]) });
     }
-
-    courses.push_back({ arr[2], stoi(arr[3]), !!stoi(arr[4]) });
-    courses.push_back({ arr[5], stoi(arr[6]), !!stoi(arr[7]) });
-    courses.push_back({ arr[8], stoi(arr[9]), !!stoi(arr[10]) });
-    courses.push_back({ arr[11], stoi(arr[12]), !!stoi(arr[13]) });
 
     return { name, group, courses };
 }
