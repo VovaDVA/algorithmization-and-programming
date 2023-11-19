@@ -63,7 +63,7 @@
 | [4. Титаник](./contest_04/04/main.go) | ![](./img/go.png) |
 | ... | ... |
 
-|[Контест 5](https://contest.yandex.ru/contest/54625/problems/) |  |
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
 | --- | :-: |
 | [1. Get a cat](./contest_05/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Класс. Чайник](./contest_05/02/main.cpp) |  ![](./img/cpp.png) |
@@ -72,4 +72,10 @@
 | [5. Класс. Большое целое число](./contest_05/05/main.cpp) | ![](./img/cpp.png) |
 | [6. Get a cat](./contest_05/06/main.go) | ![](./img/go.png) |
 | [7. Класс. Чайник](./contest_05/07/main.go) | ![](./img/go.png) |
+| ... | ... |
+
+|[Контест 6](https://contest.yandex.ru/contest/55918/problems/) |  |
+| --- | :-: |
+| [1. Класс. Shape](./contest_06/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Менеджер](./contest_06/02/main.cpp) |  ![](./img/cpp.png) |
 | ... | ... |
